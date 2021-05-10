@@ -20,7 +20,7 @@ for (let i = 0; i < a; i++) {
       if (b == 1){
         document.getElementById("d1").getElementsByTagName("p")[0].style.color = "black";
         document.getElementById("d1").getElementsByTagName("p")[0].style.fontWeight = "700";
-        document.getElementById("d1").getElementsByTagName("img")[0].src = "images/icon-arrow-up.png";
+        document.getElementById("d1").getElementsByTagName("img")[0].src = "icon-arrow-up.png";
 
         if (window.innerWidth <= 1024){
           document.getElementById("d1").getElementsByTagName("p")[1].style.paddingRight = "30px";
@@ -39,7 +39,7 @@ for (let i = 0; i < a; i++) {
         b = 0;
         document.getElementById("d1").getElementsByTagName("p")[0].style.color = " #4A4B5E";
         document.getElementById("d1").getElementsByTagName("p")[0].style.fontWeight = "400";
-        document.getElementById("d1").getElementsByTagName("img")[0].src = "images/icon-arrow-down.png";
+        document.getElementById("d1").getElementsByTagName("img")[0].src = "icon-arrow-down.png";
       }
     }
     if (i == 1) {
@@ -57,7 +57,7 @@ for (let i = 0; i < a; i++) {
       if (c == 1){
         document.getElementById("d2").getElementsByTagName("p")[0].style.color = "black";
         document.getElementById("d2").getElementsByTagName("p")[0].style.fontWeight = "700";
-        document.getElementById("d2").getElementsByTagName("img")[0].src = "images/icon-arrow-up.png";
+        document.getElementById("d2").getElementsByTagName("img")[0].src = "icon-arrow-up.png";
         if (window.innerWidth <= 1024){
           document.getElementById("d2").getElementsByTagName("p")[1].style.paddingRight = "30px";
           document.getElementById("d2").getElementsByTagName("p")[1].style.lineHeight = "1.3";
@@ -74,7 +74,7 @@ for (let i = 0; i < a; i++) {
         c = 0;
         document.getElementById("d2").getElementsByTagName("p")[0].style.color = " #4A4B5E";
         document.getElementById("d2").getElementsByTagName("p")[0].style.fontWeight = "400";
-        document.getElementById("d2").getElementsByTagName("img")[0].src = "images/icon-arrow-down.png";
+        document.getElementById("d2").getElementsByTagName("img")[0].src = "icon-arrow-down.png";
       }
     }
 
@@ -93,7 +93,7 @@ for (let i = 0; i < a; i++) {
       if (d == 1){
         document.getElementById("d3").getElementsByTagName("p")[0].style.color = "black";
         document.getElementById("d3").getElementsByTagName("p")[0].style.fontWeight = "700";
-        document.getElementById("d3").getElementsByTagName("img")[0].src = "images/icon-arrow-up.png";
+        document.getElementById("d3").getElementsByTagName("img")[0].src = "icon-arrow-up.png";
         if (window.innerWidth <= 1024){
           document.getElementById("d3").getElementsByTagName("p")[1].style.paddingRight = "30px";
           document.getElementById("d3").getElementsByTagName("p")[1].style.lineHeight = "1.3";
@@ -110,7 +110,7 @@ for (let i = 0; i < a; i++) {
         d = 0;
         document.getElementById("d3").getElementsByTagName("p")[0].style.color = " #4A4B5E";
         document.getElementById("d3").getElementsByTagName("p")[0].style.fontWeight = "400";
-        document.getElementById("d3").getElementsByTagName("img")[0].src = "images/icon-arrow-down.png";
+        document.getElementById("d3").getElementsByTagName("img")[0].src = "icon-arrow-down.png";
       }
     }
 
@@ -129,7 +129,7 @@ for (let i = 0; i < a; i++) {
       if (e == 1){
         document.getElementById("d4").getElementsByTagName("p")[0].style.color = "black";
         document.getElementById("d4").getElementsByTagName("p")[0].style.fontWeight = "700";
-        document.getElementById("d4").getElementsByTagName("img")[0].src = "images/icon-arrow-up.png";
+        document.getElementById("d4").getElementsByTagName("img")[0].src = "icon-arrow-up.png";
         if (window.innerWidth <= 1024){
           document.getElementById("d4").getElementsByTagName("p")[1].style.paddingRight = "30px";
           document.getElementById("d4").getElementsByTagName("p")[1].style.lineHeight = "1.3";
@@ -146,7 +146,7 @@ for (let i = 0; i < a; i++) {
         e = 0;
         document.getElementById("d4").getElementsByTagName("p")[0].style.color = " #4A4B5E";
         document.getElementById("d4").getElementsByTagName("p")[0].style.fontWeight = "400";
-        document.getElementById("d4").getElementsByTagName("img")[0].src = "images/icon-arrow-down.png";
+        document.getElementById("d4").getElementsByTagName("img")[0].src = "icon-arrow-down.png";
       }
     }
 
@@ -165,7 +165,7 @@ for (let i = 0; i < a; i++) {
       if (f == 1){
         document.getElementById("d5").getElementsByTagName("p")[0].style.color = "black";
         document.getElementById("d5").getElementsByTagName("p")[0].style.fontWeight = "700";
-        document.getElementById("d5").getElementsByTagName("img")[0].src = "images/icon-arrow-up.png";
+        document.getElementById("d5").getElementsByTagName("img")[0].src = "icon-arrow-up.png";
         if (window.innerWidth <= 1024){
           document.getElementById("d5").getElementsByTagName("p")[1].style.paddingRight = "1.875rem";
           document.getElementById("d5").getElementsByTagName("p")[1].style.lineHeight = "1.3";
@@ -182,7 +182,7 @@ for (let i = 0; i < a; i++) {
         f = 0;
         document.getElementById("d5").getElementsByTagName("p")[0].style.color = " #4A4B5E";
         document.getElementById("d5").getElementsByTagName("p")[0].style.fontWeight = "400";
-        document.getElementById("d5").getElementsByTagName("img")[0].src = "images/icon-arrow-down.png";  
+        document.getElementById("d5").getElementsByTagName("img")[0].src = "icon-arrow-down.png";  
       }
     }
 
