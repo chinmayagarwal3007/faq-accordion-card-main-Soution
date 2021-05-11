@@ -3,7 +3,7 @@
   justify-content: space-between;
 }
 body{
-  background-image: url("C:/Users/Lenovo/Desktop/Web Development/faq-accordion-card-main/faq-accordion-card-main/images/illustration-box-desktop.png"),linear-gradient(hsl(273, 75%, 66%) 20%, hsl(240, 73%, 65%));
+  background-image: url("illustration-box-desktop.png"),linear-gradient(hsl(273, 75%, 66%) 20%, hsl(240, 73%, 65%));
   padding: 6.25rem 12rem 6.25rem 12rem;
   height: 100%;
   margin: 0;
@@ -18,7 +18,7 @@ html {
 }
 .div0{
   background-color: #fff;
-  background-image: url("C:/Users/Lenovo/Desktop/Web Development/faq-accordion-card-main/faq-accordion-card-main/images/illustration-box-desktop.png"), url("C:/Users/Lenovo/Desktop/Web Development/faq-accordion-card-main/faq-accordion-card-main/images/illustration-woman-online-desktop.png"), url("C:/Users/Lenovo/Desktop/Web Development/faq-accordion-card-main/faq-accordion-card-main/images/bg-pattern-desktop.png");
+  background-image: url("illustration-box-desktop.png"), url("illustration-woman-online-desktop.png"), url("bg-pattern-desktop.png");
   background-repeat: no-repeat;
   background-position: top 13.719rem left -7.813rem, top 5.625rem left -5.313rem, bottom -7.5rem right 46.25rem;
   border-radius: 1.563rem;
@@ -88,7 +88,7 @@ hr{
     min-height: 51rem;
     height: auto;
     background-color: #fff;
-    background-image: url("C:/Users/Lenovo/Desktop/Web Development/faq-accordion-card-main/faq-accordion-card-main/images/bg-pattern-mobile.png");
+    background-image: url("bg-pattern-mobile.png");
     background-repeat: no-repeat;
     background-position: top center;
     border-radius: 1.563rem;
